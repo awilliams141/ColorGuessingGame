@@ -1,8 +1,25 @@
 body {
-    background-color: antiquewhite;
+    background-color: steelblue;
     text-align: center;
 }
 
 button {
     padding: 50px;
+    cursor: pointer;
+}
+
+.menu-bar {
+    height: 20px;
+    width: 100%;
+    background-color: gray;
+    margin: 10px 0px;
+}
+
+.btn-top-row {
+    margin-bottom: 5px;
+}
+
+.btn-reset {
+    padding: unset;
+    margin-right: 33%;
 }
